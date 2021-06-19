@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">News Aggregator</string>
+
+    <string name="fragment_sources_name">Sources</string>
+    <string name="fragment_news_name">News</string>
+    <string name="fragment_article_name">Article</string>
+
+    <string name="add_source_button">Add RSS channel</string>
+
+    <string name="activity_source_title">My RSS channels</string>
+
+    <string name="activity_source_dialog_title">Add new RSS channel</string>
+    <string name="activity_source_dialog_neutral_button">Cancel</string>
+    <string name="activity_source_dialog_positive_button">Save</string>
+    <string name="activity_source_dialog_edit_text_hint">RSS channel address</string>
+    <string name="activity_source_dialog_empty_address">RSS channel field can not be empty</string>
+    <string name="activity_source_dialog_address_is_not_available">This RSS channel is not available. Please, try another one</string>
+    <string name="activity_source_dialog_address_is_saved">Your RSS channel is saved</string>
+
+    <string name="activity_source_channel_deleted">RSS channel was deleted</string>
+</resources>

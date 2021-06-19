@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Агрегатор RSS</string>
+    <string name="fragment_sources_name">Источники</string>
+    <string name="fragment_news_name">Новости</string>
+    <string name="fragment_article_name">Статья</string>
+    <string name="add_source_button">Добавить RSS канал</string>
+    <string name="activity_source_title">Мои RSS каналы</string>
+    <string name="activity_source_dialog_title">Добавить новый RSS канал</string>
+    <string name="activity_source_dialog_neutral_button">Отмена</string>
+    <string name="activity_source_dialog_positive_button">Сохранить</string>
+    <string name="activity_source_dialog_edit_text_hint">Адрес RSS канала</string>
+    <string name="activity_source_dialog_empty_address">Поле для RSS канала не может быть пустым</string>
+    <string name="activity_source_dialog_address_is_not_available">Этот RSS канал не доступен. Пожалуйста, попробуйте другой</string>
+    <string name="activity_source_dialog_address_is_saved">Ваш RSS канал сохранен</string>
+    <string name="activity_source_channel_deleted">RSS канал удален</string>
+</resources>
